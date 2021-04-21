@@ -28,3 +28,18 @@ D:\Amazing unicorn stuff(GT)\Random stuff\Coding\HelloWorld2\HelloWorld2\obj\Deb
 D:\Amazing unicorn stuff(GT)\Random stuff\Coding\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.Properties.Resources.resources
 D:\Amazing unicorn stuff(GT)\Random stuff\Coding\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.csproj.GenerateResource.cache
 D:\Amazing unicorn stuff(GT)\Random stuff\Coding\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\I-want-some-stuff-calculator\HelloWorld2\HelloWorld2\bin\Debug\HelloWorld2.exe.config
+C:\Users\PC\Documents\GitHub\I-want-some-stuff-calculator\HelloWorld2\HelloWorld2\bin\Debug\HelloWorld2.exe
+C:\Users\PC\Documents\GitHub\I-want-some-stuff-calculator\HelloWorld2\HelloWorld2\bin\Debug\HelloWorld2.pdb
+C:\Users\PC\Documents\GitHub\I-want-some-stuff-calculator\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\I-want-some-stuff-calculator\HelloWorld2\HelloWorld2\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Documents\GitHub\I-want-some-stuff-calculator\HelloWorld2\HelloWorld2\obj\Debug\App.g.cs
+C:\Users\PC\Documents\GitHub\I-want-some-stuff-calculator\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2_MarkupCompile.cache
+C:\Users\PC\Documents\GitHub\I-want-some-stuff-calculator\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2_MarkupCompile.lref
+C:\Users\PC\Documents\GitHub\I-want-some-stuff-calculator\HelloWorld2\HelloWorld2\obj\Debug\MainWindow.baml
+C:\Users\PC\Documents\GitHub\I-want-some-stuff-calculator\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.g.resources
+C:\Users\PC\Documents\GitHub\I-want-some-stuff-calculator\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\I-want-some-stuff-calculator\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\I-want-some-stuff-calculator\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\I-want-some-stuff-calculator\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.exe
+C:\Users\PC\Documents\GitHub\I-want-some-stuff-calculator\HelloWorld2\HelloWorld2\obj\Debug\HelloWorld2.pdb

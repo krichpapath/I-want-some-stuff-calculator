@@ -37,7 +37,6 @@ namespace HelloWorld2
             double z = double.Parse(IWant.Text);
             double save = z / (x - y);
             Saving.Text = (save.ToString());
-
         }
     }
 }

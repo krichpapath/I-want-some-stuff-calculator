@@ -16,9 +16,9 @@
         <TextBlock HorizontalAlignment="Left" Margin="75,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="43" Width="239" FontFamily="Gill Sans MT" FontSize="30" FontWeight="Bold" Text="ราคาของที่อยากได้" RenderTransformOrigin="0.512,0.927"/>
         <TextBox x:Name="IWant" HorizontalAlignment="Left" Height="44" Margin="319,166,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="261" FontFamily="Gill Sans MT" FontSize="36" FontWeight="Bold"/>
         <TextBlock HorizontalAlignment="Left" Margin="585,167,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="48" Width="80" FontFamily="Gill Sans MT" FontSize="36" FontWeight="Bold"><Run Text="บา"/><Run Text="ท"/></TextBlock>
-        <TextBlock HorizontalAlignment="Left" Margin="86,300,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="43" Width="286" FontFamily="Gill Sans MT" FontSize="30" FontWeight="Bold" Text="คุณต้องเก็บเงินทั้งหมด" RenderTransformOrigin="0.512,0.927"/>
-        <TextBlock HorizontalAlignment="Left" Margin="643,295,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="48" Width="74" FontFamily="Gill Sans MT" FontSize="36" FontWeight="Bold" Text="วัน"/>
-        <TextBox x:Name="Saving" HorizontalAlignment="Left" Height="44" Margin="377,295,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="261" FontFamily="Gill Sans MT" FontSize="36" FontWeight="Bold" IsEnabled="False"/>
+        <TextBlock HorizontalAlignment="Left" Margin="86,314,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="43" Width="286" FontFamily="Gill Sans MT" FontSize="30" FontWeight="Bold" Text="คุณต้องเก็บเงินทั้งหมด" RenderTransformOrigin="0.512,0.927"/>
+        <TextBlock HorizontalAlignment="Left" Margin="643,309,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="48" Width="74" FontFamily="Gill Sans MT" FontSize="36" FontWeight="Bold" Text="วัน"/>
+        <TextBox x:Name="Saving" HorizontalAlignment="Left" Height="44" Margin="377,309,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="261" FontFamily="Gill Sans MT" FontSize="36" FontWeight="Bold" IsEnabled="False"/>
         <Button x:Name="Calculated" Content="คำนวณ" HorizontalAlignment="Left" Margin="290,222,0,0" VerticalAlignment="Top" Width="225" Height="60" FontSize="33" Click="Button_Click"/>
 
     </Grid>
